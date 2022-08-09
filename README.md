@@ -6,11 +6,11 @@
 
 This project is made as part of Microverse program.
 
-you can view the front-end of this app [here](https://github.com/oluyaratosin123/Hello-React-Front-End)
+you can view the front-end of this app [here](https://github.com/direakanbi/Re-react-frontend)
 
 ## Project Requirement
 
- - Create a new Rails API app called 'hello-rails-back-end'.
+ - Create a new Rails API app called 'Re-react-frontend'.
  - Initialize your project with Git.
  - Make sure that your project has a Postgres database set up. 
  - Create a table for storing your messages and create 5 different greetings. 
@@ -29,13 +29,13 @@ you can view the front-end of this app [here](https://github.com/oluyaratosin123
 Start by cloning the repository.
 
 ```
-git clone git@github.com:oluyaratosin123/Hello-Rails-Back-End.git
+git clone git@github.com:direakanbi/Re-rails-react-backend.git
 ```
 
 Navigate to the created folder.
 
 ```
-cd Hello-Rails-Back-End
+cd Re-rails-react-backend
 ```
 
 Current Ruby Version for this project
@@ -65,7 +65,7 @@ rails s
 
 Link to [localhost](http://localhost:3000/)
 
-You can view the front-end repository [here](https://github.com/direakanbi/hello-rails-frontend)
+You can view the front-end repository [here](https://github.com/direakanbi/Re-react-frontend)
 
 ## Authors
 Dire Akanbi 
